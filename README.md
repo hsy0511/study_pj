@@ -31,6 +31,8 @@
 2. 상품은 중단 중앙에 넣을 것이다.
 3. 장바구니는 상단 오른쪽에 넣을 것이다.
 
+![image](https://github.com/hsy0511/study_pj/assets/104752580/b73d3f44-b0e8-4eb0-b1dc-b51276d2bb37)
+
 - 두번째 페이지 디자인
 1. 로고는 상단 왼쪽에 넣을 것이다.
 2. 상품은 중단 중앙에 넣을 것이다.
@@ -39,11 +41,15 @@
 5. 색상은 상품 바로 옆 상단 오른쪽에 넣을 것이다.
 6. 사이즈는 상품 바로 아래 넣을 것이다.
 
+![image](https://github.com/hsy0511/study_pj/assets/104752580/936c21ba-f33e-4a08-842b-a99148e2c0bc)
+
 - 세번째 페이지 디자인
 1. 로고는 상단 왼쪽에 넣을 것이다.
 2. 목록은 중단 중앙에 넣을 것이다.
 3. 구매는 목록 오른쪽 끝에 넣을 것이다.
 4. 삭제는 구매 바로 오른쪽에 넣을 것이다.
+
+![image](https://github.com/hsy0511/study_pj/assets/104752580/915399c0-448a-4d2f-ad22-9ac792787d1a)
 
 - 네번째 페이지 디자인
 1. 로고는 상단 왼쪽에 넣을 것이다.
@@ -51,12 +57,12 @@
 3. 할인 쿠폰은 상품사진 밑에 넣을 것이다
 4. 결제는 상품에 왼쪽 밑에 넣을 것이다.
 5. 취소는 결제 오른쪽에 넣을 것이다.
-## 프로젝트 틀
-![image](https://github.com/hsy0511/study_pj/assets/104752580/334e2595-0cf8-4f05-a85d-3a31c0f26e7e)
-![image](https://github.com/hsy0511/study_pj/assets/104752580/b73d3f44-b0e8-4eb0-b1dc-b51276d2bb37)
-![image](https://github.com/hsy0511/study_pj/assets/104752580/936c21ba-f33e-4a08-842b-a99148e2c0bc)
-![image](https://github.com/hsy0511/study_pj/assets/104752580/915399c0-448a-4d2f-ad22-9ac792787d1a)
+
 ![image](https://github.com/hsy0511/study_pj/assets/104752580/728f6507-9140-4d82-8b58-1983d4aec416)
+
+## 프로젝트 다이어그램
+![image](https://github.com/hsy0511/study_pj/assets/104752580/334e2595-0cf8-4f05-a85d-3a31c0f26e7e)
+
 
 
 ## 메인 프로젝트 생성
