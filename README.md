@@ -77,7 +77,8 @@
 2. 할인쿠폰을 이용하여 물건의 가격을 줄일 수 있음
 3. 취소를 하면 홈화면으로 이동됨
 ## 프로젝트 다이어그램
-![image](https://github.com/hsy0511/study_pj/assets/104752580/334e2595-0cf8-4f05-a85d-3a31c0f26e7e)
+![image](https://github.com/hsy0511/study_pj/assets/104752580/24f9d035-93c5-495f-9699-88cc99a3fef1)
+
 
 
 
