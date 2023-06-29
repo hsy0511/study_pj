@@ -33,6 +33,11 @@
 
 ![image](https://github.com/hsy0511/study_pj/assets/104752580/b73d3f44-b0e8-4eb0-b1dc-b51276d2bb37)
 
+- 첫번째 페이지 다이어그램
+
+![image](https://github.com/hsy0511/study_pj/assets/104752580/d6498f88-f45d-472f-88e9-50f72ddab77b)
+
+
 - 두번째 페이지 디자인
 1. 로고는 상단 왼쪽에 넣을 것이다.
 2. 상품은 중단 중앙에 넣을 것이다.
@@ -43,6 +48,10 @@
 
 ![image](https://github.com/hsy0511/study_pj/assets/104752580/936c21ba-f33e-4a08-842b-a99148e2c0bc)
 
+- 두번째 페이지 다이어그램
+
+![image](https://github.com/hsy0511/study_pj/assets/104752580/973eb273-39e3-4d58-a59c-0eea86719a84)
+
 - 세번째 페이지 디자인
 1. 로고는 상단 왼쪽에 넣을 것이다.
 2. 목록은 중단 중앙에 넣을 것이다.
@@ -50,6 +59,10 @@
 4. 삭제는 구매 바로 오른쪽에 넣을 것이다.
 
 ![image](https://github.com/hsy0511/study_pj/assets/104752580/915399c0-448a-4d2f-ad22-9ac792787d1a)
+
+- 세번째 페이지 다이어그램
+
+![image](https://github.com/hsy0511/study_pj/assets/104752580/58c0e81c-e291-4c37-b023-98ea965f2515)
 
 - 네번째 페이지 디자인
 1. 로고는 상단 왼쪽에 넣을 것이다.
@@ -59,6 +72,10 @@
 5. 취소는 결제 오른쪽에 넣을 것이다.
 
 ![image](https://github.com/hsy0511/study_pj/assets/104752580/728f6507-9140-4d82-8b58-1983d4aec416)
+
+- 네번째 페이지 다이어그램
+
+![image](https://github.com/hsy0511/study_pj/assets/104752580/e293f0a2-95ae-4074-923b-d37fc699047a)
 
 - 로고 기능
 1. 홈 화면으로 돌아감
